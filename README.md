@@ -6,7 +6,7 @@ Please working with the file named "group22_project1.ipynb". And please comment 
 
 DDL: *April 6, 2021*
 - *March 23, 2021* release the validation score of weak baseline--60.2%
-- *March 30, 2021* release the validation score of strong baseline
+- *March 30, 2021* release the validation score of strong baseline-- 62.0%
 
 Submission: Each team leader is required to submit the groupNo.zip file in the canvas. It shoud contain 
 - `pre.csv` Predictions on test data (please make sure you can successfully evaluate your validation predictions on the validation data with the help of evaluate.py)
