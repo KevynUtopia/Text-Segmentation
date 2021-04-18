@@ -23,3 +23,4 @@ We will check your report with your code and the accuracy.
 | 90%   | a very competitive baseline without any special mechanism          | detailed explanation and analysis, such as explorative data analysis and ablation study |
 | 100%  | a very competitive baseline with at least one mechanism            | excellent ideas, detailed explanation and solid analysis |
 
+And our acc reached about 67% on validation set. The final model was Bert
